@@ -1,6 +1,7 @@
 # Inputs:-<br/>
 1. City
 2. BHKs
+3. Starting iteration (If after 100 iterations over some network issues disconnected you don't need to run from  start just see the last iteration number and enter in starting paramete)
 
 # Usage:-<br/>
 Just run and give the inputs make sure you create folders like dataset/BHK-1 to dataset/BHK-5 (or) Just run preprocessing file it will automatically creates that folder.
